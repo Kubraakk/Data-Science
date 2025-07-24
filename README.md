@@ -55,5 +55,3 @@ CORD-19 veri seti, COVID-19 ile ilgili 200.000’den fazla bilimsel yayını iç
 
 ---
 
-## 📂 Dosya Yapısı
-
